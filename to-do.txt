@@ -1,0 +1,6 @@
+- tabla tipo_vehiculo que incluya coche, moto, etc. y cambiar en el admin el select haciendo un while listando todos los tipos de vehiculo, y en listado.php
+
+- recordar pass
+
+- comprovar fechas de horarios (2>1, etc.)
+
